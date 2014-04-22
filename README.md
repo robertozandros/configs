@@ -1,4 +1,4 @@
 configs
 =======
 
-my configuration files
+my configuration files for various programs
